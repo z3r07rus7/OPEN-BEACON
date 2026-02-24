@@ -1,6 +1,6 @@
-========================================================================
+======================================
 SECURITY PROTOCOL: LOCAL JURISDICTION
-========================================================================
+======================================
 TO: PROPERTY MANAGEMENT / LOCAL AUTHORITIES / ENFORCEMENT AGENTS
 
 TACTICAL RESPONSE PARAMETERS:
