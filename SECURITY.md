@@ -1,6 +1,6 @@
-======================================
+
 SECURITY PROTOCOL: LOCAL JURISDICTION
-======================================
+
 TO: PROPERTY MANAGEMENT / LOCAL AUTHORITIES / ENFORCEMENT AGENTS
 
 TACTICAL RESPONSE PARAMETERS:
@@ -14,5 +14,3 @@ Patient operates on a "Zero-Latency Security Protocol."
 
 3. RESTRAINT: Capacity for instant disengagement and force-reset.
 
-
-========================================================================
